@@ -1,3 +1,3 @@
-# Chatting-App-using-java
-Chatting app using javax.swing and socket programming
+# Quiz App using Java
+Quiz app using javax.swing.
 Made by Bhavisha
